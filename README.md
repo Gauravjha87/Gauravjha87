@@ -1,16 +1,13 @@
-## Hi there 👋
+gauravjha
+Hi 👋, I'm Gaurav Kumar Jha
+AI/ML Engineer | Data Scientist | Generative AI Enthusiast
+🔭 Currently working on AI & Machine Learning Projects
+🌱 Learning LangGraph, Agentic AI, RAG Systems
+👯 Looking to collaborate on AI/ML Open Source Projects
+💬 Ask me about Python, Machine Learning, Deep Learning, LLMs
+📫 Reach me at: gjha62032@gmail.com
+Connect with me:
+LinkedIn | Portfolio
 
-<!--
-**Gauravjha87/Gauravjha87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+Python | SQL | Machine Learning | TensorFlow | LangChain | FastAPI | Docker | AWS
