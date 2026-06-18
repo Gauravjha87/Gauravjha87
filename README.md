@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Developer;LangChain+%7C+LangGraph+%7C+RAG;Building+Agentic+AI+Applications" />
+</p>
+
 # gauravjha
 <h1 align="center">Hi 👋, I'm Gaurav Kumar Jha</h1>
 <h3 align="center">AI/ML Engineer | Data Scientist | Generative AI Enthusiast</h3>
