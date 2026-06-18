@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src=""C:\Users\DELL\Downloads\Gaurav Banner.png"" width="100%" />
+  <img src="https://github.com/Gauravjha87/Gauravjha87/blob/main/Gaurav%20Banner.png" width="100%" />
 </p>
 
 # gauravjha
