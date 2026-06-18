@@ -1,13 +1,19 @@
-gauravjha
-Hi 👋, I'm Gaurav Kumar Jha
-AI/ML Engineer | Data Scientist | Generative AI Enthusiast
-🔭 Currently working on AI & Machine Learning Projects
-🌱 Learning LangGraph, Agentic AI, RAG Systems
-👯 Looking to collaborate on AI/ML Open Source Projects
-💬 Ask me about Python, Machine Learning, Deep Learning, LLMs
-📫 Reach me at: gjha62032@gmail.com
-Connect with me:
-LinkedIn | Portfolio
+# gauravjha
+<h1 align="center">Hi 👋, I'm Gaurav Kumar Jha</h1>
+<h3 align="center">AI/ML Engineer | Data Scientist | Generative AI Enthusiast</h3>
 
-Languages and Tools:
+- 🔭 Currently working on AI & Machine Learning Projects
+- 🌱 Learning LangGraph, Agentic AI, RAG Systems
+- 👯 Looking to collaborate on AI/ML Open Source Projects
+- 💬 Ask me about Python, Machine Learning, Deep Learning, LLMs
+- 📫 Reach me at: gjha62032@gmail.com
+
+### Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/gaurav-kumar-jha-00b274251/)
+|
+[Portfolio]()
+
+### Languages and Tools:
+
 Python | SQL | Machine Learning | TensorFlow | LangChain | FastAPI | Docker | AWS
