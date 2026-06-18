@@ -19,5 +19,9 @@
 [Portfolio]()
 
 ### Languages and Tools:
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
+![RAG](https://img.shields.io/badge/RAG-System-blue)
+![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-teal)
 
 Python | SQL | Machine Learning | TensorFlow | LangChain | FastAPI | Docker | AWS
